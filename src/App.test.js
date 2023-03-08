@@ -1,7 +1,7 @@
 import React from "react";
 import { mount } from "enzyme";
 import { act } from "react-dom/test-utils";
-import BookingForm from "./src/components/BookingForm";
+import BookingForm from "./components/BookingForm";
 
 describe("BookingForm", () => {
   let wrapper;
